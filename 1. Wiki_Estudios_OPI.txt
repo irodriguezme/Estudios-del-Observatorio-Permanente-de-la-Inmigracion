@@ -1,0 +1,7 @@
+Nombres de los componentes : Irene Rodríguez Merchán
+
+Descripción de los fiheros:
+
+1.- Metadatos_Estudios_OPI.pdf: Principales características del fichero "Opi_estudios_scrape.csv".
+2.- Codigo_Estudios_OPI.py: Código pyhton para web scraping de las páginas donde se publican los estudios del OPI.
+3.- Opi_estudios_scrape.csv: Fichero csv con la información extraida.
